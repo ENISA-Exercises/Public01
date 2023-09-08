@@ -1,6 +1,6 @@
-          '''mermaid
+'''mermaid
 gantt
-excludes   weekends
+%%excludes   weekends %% fix format it creates clatter
 title Training and Exercises Calendar
 dateFormat YYYY-MM-DD
 %%displayed gantt bar info
