@@ -18,5 +18,3 @@ EXERCISE45239 - CYSOPEX: EXERCISE45239, 2023-11-09, 1d
 ELEX2023 - ELEX: ELEX2023, 2023-11-21, 1d
 virtual_workshop45261 - 11th workshop NCSS experts: virtual_workshop45261, 2023-12-01, 15d
 EXERCISE45265 - JASPER: EXERCISE45265, 2023-12-05, 1d
-![image](https://github.com/ENISA-Exercises/Public01/assets/14302253/59413d19-a0d7-4af7-8b44-cd8fc0764b58)
-
