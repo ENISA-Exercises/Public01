@@ -1,4 +1,4 @@
-v# [The European Union Agency for Cybersecurity (ENISA)](enisa.europa.eu)
+# [The European Union Agency for Cybersecurity (ENISA)](enisa.europa.eu)
 ## Capacity Building Unit (CBU)
 ### Training & Exercises (Trex) sector's event calendar
 
