@@ -55,10 +55,13 @@ gantt
     CYSOPEX, 9 Nov: done, EXERCISE45239, 2023-11-09, 1d
     BLUEOLEX-JANUS, TBC: Exercise45567, 2024-10-02, 1d
     EUIBA's exercise, TBC: Exercise45570, 2024-10-05, 1d
-    JASPER, TBC: Exercise45631, 2024-12-05, 1d
+    JASPER, TBC: Exercise45631, 2024-12-05, 1d    
+    
 %%  Year_2023: done, milestone, Year23, 2023-01-01, 0d
 %%  Year_2024: done, milestone, Year24, 2024-01-01, 0d
 Year_2025: done, milestone, Year25, 2025-01-01, 0d
+Year_2026: done, milestone, Year26, 2026-01-01, 0d
+
 ```
 
 </details>
