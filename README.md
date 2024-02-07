@@ -57,7 +57,7 @@ gantt
     EUIBA's exercise, TBC: Exercise45570, 2024-10-05, 1d
     JASPER, TBC: Exercise45631, 2024-12-05, 1d
     ELEX25: Exercise45962, 2025-11-01, 1d
-    EUIBA's exercise: Exercise45204, 2023-10-05, 1d  
+    EUIBA's exercise: Exercise45204, 2025-10-05, 1d  
     
 %%  Year_2023: done, milestone, Year23, 2023-01-01, 0d
 %%  Year_2024: done, milestone, Year24, 2024-01-01, 0d
@@ -118,7 +118,7 @@ gantt
     EUIBA's exercise, TBC: Exercise45570, 2024-10-05, 1d
     JASPER, TBC: Exercise45631, 2024-12-05, 1d
     ELEX25: Exercise45962, 2025-11-01, 1d
-    EUIBA's exercise: Exercise45204, 2023-10-05, 1d
+    EUIBA's exercise: Exercise45204, 2025-10-05, 1d
 %%  Year_2023: done, milestone, Year23, 2023-01-01, 0d
 %%  Year_2024: done, milestone, Year24, 2024-01-01, 0d
 Year_2025: done, milestone, Year25, 2025-01-01, 0d
@@ -160,4 +160,4 @@ Year_2026: done, milestone, Year26, 2026-01-01, 0d
 - CYBERSOPEX, 2023-11-07, 1d
 - CYSOPEX, 2023-11-09, 1d
 - ELEX25, 2025-11-01, 1d
-- EUIBA's exercise, 2023-10-05, 1d
+- EUIBA's exercise, 2025-10-05, 1d
