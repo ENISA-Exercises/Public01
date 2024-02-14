@@ -38,6 +38,9 @@ gantt
   section Trainings
     WS8 Risk Management, 20 Sep: done, TRAINING45189, 2023-09-20, 1d
     101 Interoperable Risk Management 25 Jan: virtual_workshop45316, 2024-01-25, 1d
+    CBA Workstream on Health, 3 Apr: done, 2023-04-03, 2d
+    NLO subgroup meeting on NCSS, 12 May: done, 2023-05-12, 1d
+    NIS Cooperation Group on Energy, 20 Nov: done, 2023-11-20, 1d
   section Cyber Europe
     MPC CE2024, 26 Apr: done, Conference45042, 2023-04-26, 2d
     FPC CE2024, 13 Nov: done, CONFERENCE45243, 2023-11-13, 2d
@@ -99,6 +102,9 @@ gantt
   section Trainings
     WS8 Risk Management, 20 Sep: done, TRAINING45189, 2023-09-20, 1d
     101 Interoperable Risk Management 25 Jan: virtual_workshop45316, 2024-01-25, 1d
+    CBA Workstream on Health, 3 Apr: done, 2023-04-03, 2d
+    NLO subgroup meeting on NCSS, 12 May: done, 2023-05-12, 1d
+    NIS Cooperation Group on Energy, 20 Nov: done, 2023-11-20, 1d
   section Cyber Europe
     MPC CE2024, 26 Apr: done, Conference45042, 2023-04-26, 2d
     FPC CE2024, 13 Nov: done, CONFERENCE45243, 2023-11-13, 2d
@@ -144,7 +150,10 @@ Year_2026: done, milestone, Year26, 2026-01-01, 0d
 - Letra Athens 23, 2023-06-19, 3d
 - Letra Hearklion 23, 2023-10-23, 5d
 ###### other trainings
+- CBA Workstream on Health, 2023-04-03, 2d
+- NLO subgroup meeting on NCSS, 2023-05-12, 1d
 - WS8 Risk Management, 2023-09-20, 1d
+- NIS Cooperation Group on Energy: done, 2023-11-20, 1d
 ###### Workshops
 - Peer Learning on Skills, 2023-10-17, 1d
 - 11th workshop NCSS experts, 2023-12-01, 1d
