@@ -29,6 +29,9 @@ gantt
   section Trainings
     WS8 Risk Management, 20 Sep: done, TRAINING45189, 2023-09-20, 1d
     101 Interoperable Risk Management 25 Jan: virtual_workshop45316, 2024-01-25, 1d
+    CBA Workstream on Health, 3 Apr: done, 2023-04-03, 2d
+    NLO subgroup meeting on NCSS, 12 May: done, 2023-05-12, 1d
+    NIS Cooperation Group on Energy, 20 Nov: done, 2023-11-20, 1d
   section Cyber Europe
     MPC CE2024, 26 Apr: done, Conference45042, 2023-04-26, 2d
     FPC CE2024, 13 Nov: done, CONFERENCE45243, 2023-11-13, 2d
@@ -47,7 +50,10 @@ gantt
     BLUEOLEX-JANUS, TBC: Exercise45567, 2024-10-02, 1d
     EUIBA's exercise, TBC: Exercise45570, 2024-10-05, 1d
     JASPER, TBC: Exercise45631, 2024-12-05, 1d
+    ELEX25: Exercise45962, 2025-11-01, 1d
+    EUIBA's exercise: Exercise45204, 2025-10-05, 1d
 %%  Year_2023: done, milestone, Year23, 2023-01-01, 0d
 %%  Year_2024: done, milestone, Year24, 2024-01-01, 0d
 Year_2025: done, milestone, Year25, 2025-01-01, 0d
+Year_2026: done, milestone, Year26, 2026-01-01, 0d
 ```
