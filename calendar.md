@@ -28,7 +28,7 @@ gantt
     Letra Heraklion Oct: Training45565, 2024-09-30, 33d
   section Trainings
     WS8 Risk Management, 20 Sep: done, TRAINING45189, 2023-09-20, 1d
-    101 Interoperable Risk Management 25 Jan: virtual_workshop45316, 2024-01-25, 1d
+    101 Interoperable Risk Management 25 Jan: done, virtual_workshop45316, 2024-01-25, 1d
     CBA Workstream on Health, 3 Apr: done, 2023-04-03, 2d
     NLO subgroup meeting on NCSS, 12 May: done, 2023-05-12, 1d
     NIS Cooperation Group on Energy, 20 Nov: done, 2023-11-20, 1d
